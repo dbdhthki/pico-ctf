@@ -1,0 +1,5 @@
+In one of the http get request you get
+ Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
+User agent string. 
+
+Pasting it to the site in the instruction, gives us chrome browser user string. 

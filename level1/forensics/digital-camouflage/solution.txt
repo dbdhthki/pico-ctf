@@ -1,0 +1,10 @@
+open the pcap file in wireshark, filter by http and go to the POST request, as username and password are found in post request. 
+
+Form item: "pswrd" = "dnlBalFHMGhoNg=="
+Here its encoded in base64 as cleary seen ended with ==. 
+
+to decode it. 
+
+base64 -d <<<"dnlBalFHMGhoNg=="
+
+

@@ -1,0 +1,16 @@
+6$ ./hex2raw 
+Give me this in raw form (0x41 -> 'A'):
+6a5c6fa9602a2d0f439953bcb6f4a611
+
+You gave me:
+
+Now, we have to provide the hex form of these number to the program. 
+
+python -c "print('6a5c6fa9602a2d0f439953bcb6f4a611'.decode('hex'))" | ./hex2raw
+
+
+rawtohex
+
+This wil print the hex string ./rawtohex |xxd -p
+
+
